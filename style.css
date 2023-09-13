@@ -1,0 +1,22 @@
+body{
+background:#00b3e6 ;
+
+}
+
+
+
+<div{
+    width: 700;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    background: white;
+
+}
+
+
+#mainheader {
+    font-size: 22;  
+}
+.perspective-questions {
+font-style: italic;
+}
